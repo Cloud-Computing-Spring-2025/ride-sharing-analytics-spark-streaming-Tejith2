@@ -1,0 +1,5 @@
+v1
+{"path":"file:///Users/tejith/ride-sharing-analytics-spark-streaming-Tejith2/output/task3_csv/part-00000-f0a6b92e-c5c6-4d2e-8508-b37a15afaa4d-c000.csv","size":131,"isDir":false,"modificationTime":1743565104171,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/tejith/ride-sharing-analytics-spark-streaming-Tejith2/output/task3_csv/part-00001-97bf7f69-acbf-4c14-a10b-57385be103fa-c000.csv","size":131,"isDir":false,"modificationTime":1743565104179,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/tejith/ride-sharing-analytics-spark-streaming-Tejith2/output/task3_csv/part-00002-66215803-c462-4014-9771-0258e13dc1d2-c000.csv","size":130,"isDir":false,"modificationTime":1743565104179,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/tejith/ride-sharing-analytics-spark-streaming-Tejith2/output/task3_csv/part-00003-396491bd-e5cc-4138-bbec-ec1f62111e8e-c000.csv","size":69,"isDir":false,"modificationTime":1743565104171,"blockReplication":1,"blockSize":33554432,"action":"add"}
